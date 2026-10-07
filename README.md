@@ -7,8 +7,8 @@
 
 [![Live App](https://img.shields.io/badge/Live%20App-yaswtutu--modelwatch-0F766E?style=for-the-badge)](https://yaswtutu-modelwatch.hf.space)
 [![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face-Space-F59E0B?style=for-the-badge)](https://huggingface.co/spaces/yaswtutu/modelwatch)
-[![GitHub](https://img.shields.io/badge/GitHub-yaswankum2622--code%2Fmodelwatch-111827?style=for-the-badge)](https://github.com/yaswankum2622-code/modelwatch)
-[![CI](https://img.shields.io/github/actions/workflow/status/yaswankum2622-code/modelwatch/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/yaswankum2622-code/modelwatch/actions)
+[![GitHub](https://img.shields.io/badge/GitHub-yaswanthakkireddy%2Fmodelwatch-111827?style=for-the-badge)](https://github.com/yaswanthakkireddy/modelwatch)
+[![CI](https://img.shields.io/github/actions/workflow/status/yaswanthakkireddy/modelwatch/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/yaswanthakkireddy/modelwatch/actions)
 
 ModelWatch is a production-style monitoring platform built on the UCI Credit Card Default dataset.  
 It shows the full post-deployment story: the data moves, quality erodes, feature importance shifts, anomalies rise, and the team needs an evidence-based retraining decision.
@@ -243,7 +243,7 @@ MODELWATCH/
 ### Quick start
 
 ```bash
-git clone https://github.com/yaswankum2622-code/modelwatch.git
+git clone https://github.com/yaswanthakkireddy/modelwatch.git
 cd modelwatch
 python -m venv .venv
 ```
@@ -343,7 +343,7 @@ This is what makes it feel closer to a real MLOps monitoring surface than a stan
 
 - **Live app:** https://yaswtutu-modelwatch.hf.space
 - **Hugging Face Space:** https://huggingface.co/spaces/yaswtutu/modelwatch
-- **GitHub repository:** https://github.com/yaswankum2622-code/modelwatch
+- **GitHub repository:** https://github.com/yaswanthakkireddy/modelwatch
 
 ---
 
